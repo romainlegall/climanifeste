@@ -90,6 +90,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Patrick Davidson Lambret](https://github.com/determind/), technical product manager (po/pm)
 * [Julien Lambot](https://jumbot.be), Administrateur systèmes
 * [Christophe Le Besnerais](https://github.com/lebesnec), développeur
+* [Romain Le Gall](https://www.ilek.fr), Lead dev
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
 * [Luc Leray](https://github.com/lucleray), développeur
 * [Christophe Logiste](https://www.logiste.fr/), webmaster
